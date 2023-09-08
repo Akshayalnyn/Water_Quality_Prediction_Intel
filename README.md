@@ -1,6 +1,6 @@
 
 With a profound understanding of the pressing global issue of water scarcity, we are determined to make a difference.  With freshwater scarcity and pollution on the rise, it is vital to ensure access to safe and sanitary water for both humans and ecosystems. Our team aims to leverage Machine Learning to develop innovative solutions by assessing the suitability of water for consumption. We are embarking on a mission to classify water into usable and non-usable categories.  This paves the way for impactful advancements in water resource management.
-To find the pickle file for the random forest model, https://drive.google.com/file/d/1IXnrQ4Z46k_BJ4oZFydJkqx5dg2v5OiZ/view?usp=sharing.
+
 This project compares the time taken by usual algorithms and accelerated oneAPI algorithms.
 The time taken for the algorithms 
 ![image](https://github.com/Krithika001/Water_Quality_Prediction_Intel/assets/89290599/bc8c58fb-431d-4b93-945c-6b912f6ec048)
